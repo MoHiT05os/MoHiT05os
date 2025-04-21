@@ -1,16 +1,36 @@
-👋 Hey there! I’m @MoHiT05os — a curious mind exploring the depths of code, creativity, and chaos.
+# 👋 Hey, I'm Mohit Yadav (MoHiT05os)
 
-💡 I blend Machine Learning, Computer Vision, Quant Finance, Content Writing, and tech hacks into powerful digital ideas.
+🎓 CS Undergrad | ⚙️ Quant Finance Learner | 🤖 AI & ML Enthusiast  
+🛠️ Passionate about building, learning, and sharing  
+📈 Exploring Algo Trading | 📷 Starting on YouTube
 
-🧠 Currently learning and building every single day — using just a 6.5" mobile and a 14" laptop. No excuses, just growth.
+---
 
-🤝 Open to collaborations across tech, trading, AI, or even wild startup ideas. If it excites the brain, I’m in.
+### 💡 What I Do:
+- 🔍 Machine Learning + Computer Vision Projects
+- 📊 Quant Strategies & Trading Bots
+- ✍️ Content Writing + Tech Blogs
+- 🧠 Learning everyday from mobile & laptop (6.5" + 14")
 
-📬 Reach out: mohityadav.coral@gmail.com
+---
 
-😄 Pronouns: He/him/his
+### 🚀 Recent Projects:
+- 📉 MA Crossover Bot (Colab + GitHub)
+- 🧠 Plastic Waste Detection using YOLOv8
+- 🤖 More coming soon...
 
-⚡ Fun fact: Stick around. Watch me build. Grow with me.
+---
+
+### 📌 Featured
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoHiT05os&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MoHiT05os&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+📫 Reach me at: mohityadav.coral@gmail.com  
+⚡ Fun Fact: Stick around — we all grow together 🌱
+
 
 
 <!---
