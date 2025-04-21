@@ -26,6 +26,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MoHiT05os&theme=tokyonight)](https://git.io/streak-stats)
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MoHiT05os&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 📫 Reach me at: mohityadav.coral@gmail.com  
