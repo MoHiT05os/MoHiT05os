@@ -17,6 +17,7 @@
 ### 🚀 Recent Projects:
 - 📉 MA Crossover Bot (Colab + GitHub)
 - 🧠 Plastic Waste Detection using YOLOv8
+- 🛠️ Detector2 Mask R-CNN detector
 - 🤖 More coming soon...
 
 ---
