@@ -2,7 +2,6 @@
 
 🎓 CS Undergrad @ UPES | 🤖 AI & ML Knight | 📈 Quant Strategist  
 🛠 Builder. Dreamer. Learner. Explorer of infinite stacks.  
-📹 Starting YouTube to document the journey from 0 to 👑
 
 ---
 
@@ -64,7 +63,7 @@
 
 ---
 
-⚡ _Fun Fact_: I build at night when the world sleeps. That’s when kings plan conquests.  
+  
 🌱 _Stick around – we grow, build, and conquer together._
 
 <!---
