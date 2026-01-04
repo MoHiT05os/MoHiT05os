@@ -1,4 +1,4 @@
-# 👑 Hey, I'm Mohit Yadav (a.k.a. MoHiT05os)
+# Hey, I'm Mohit Yadav (a.k.a. MoHiT05os)
 
 🎓 CS Undergrad @ UPES | 🤖 AI & ML | 📈 Quant 
 🛠 Builder. Dreamer. Learner. Explorer of infinite stacks.  
