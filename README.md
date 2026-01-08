@@ -27,7 +27,7 @@
 - 📈 **Quant Trading Bots**: MA crossover, sentiment-based, volatility scalpers  
 - 📚 **Machine Learning Hub**: Classic & modern ML models with real datasets  
 - 💻 **Dev Portfolio Archive**: Projects, blogs & YouTube integration — _“a King's digital library”_  
-- 🌐 Deployed using **Vercel** | Colab | HuggingFace Spaces | GitHub Pages
+- 🌐 Deployed using **Vercel** | Colab | HuggingFace Spaces | GitHub Pages | Streamlit
 
 ---
 
