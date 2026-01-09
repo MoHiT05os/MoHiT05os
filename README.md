@@ -10,7 +10,7 @@ Building an <b>Iron-Man suit of AI systems</b> — one script, one model, one au
 
 <p align="center">
 <a href="https://github.com/Abyss">
-<img src="Vintage Colorful Retro Vibes Typographic Product Brand Logo.png" />
+<img src="https://raw.githubusercontent.com/MoHiT05os/Abyss/main/LOGO.png" />
 </a>
 </p>
 
@@ -19,8 +19,11 @@ Building an <b>Iron-Man suit of AI systems</b> — one script, one model, one au
 <!-- ===================== QUICK STATS ===================== -->
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=therealmohityadav&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=therealmohityadav&theme=tokyonight&hide_border=true" />
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api?username=MoHiT05os&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=MoHiT05os&theme=tokyonight&hide_border=true" />
 
 </div>
 
