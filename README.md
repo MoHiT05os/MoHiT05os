@@ -9,8 +9,8 @@ Building an <b>Iron-Man suit of AI systems</b> — one script, one model, one au
 </p>
 
 <p align="center">
-<a href="https://github.com/therealmohityadav">
-<img src="https://komarev.com/ghpvc/?username=therealmohityadav&style=flat-square&color=blue" />
+<a href="https://github.com/Abyss">
+<img src="Vintage Colorful Retro Vibes Typographic Product Brand Logo.png" />
 </a>
 </p>
 
