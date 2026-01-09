@@ -1,52 +1,179 @@
-Mohit Yadav (a.k.a. MoHiT05os)
-🎓 CS Undergrad @ UPES | 🤖 AI & ML Enthusiast | 📈 Quant Trading Builder | 🛠 Full-Stack Explorer
-Iron Man suit of AI tools. One script at a time. Let's conquer tech stacks together!
-​
+<!-- ===================== HERO ===================== -->
+<h1 align="center">Mohit Kumar Yadav</h1>
+<h3 align="center">
+CS Undergrad @ UPES • AI / ML Engineer • Quant Trading Builder • Full-Stack Explorer
+</h3>
 
+<p align="center">
+Building an <b>Iron-Man suit of AI systems</b> — one script, one model, one automation at a time.
+</p>
+
+<p align="center">
+<a href="https://github.com/therealmohityadav">
+<img src="https://komarev.com/ghpvc/?username=therealmohityadav&style=flat-square&color=blue" />
+</a>
+</p>
+
+---
+
+<!-- ===================== QUICK STATS ===================== -->
 <div align="center">
-​
 
-[
-​
-
-[
-​
-
-[
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=therealmohityadav&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=therealmohityadav&theme=tokyonight&hide_border=true" />
 
 </div>
-💻 Tech Arsenal
-<div align="center"> <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Colab" /> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> </div>[4]
-🔥 What I’m Building
-🧠 AI Mind Assistant | LangChain + LLaMA3 + RAG + Supabase → [ [
 
-🛠️ Detectron2 Segmentation | Mask R-CNN (8-class dataset) → [ [
+---
 
-🧃 YOLOv8/v11 | Plastic waste detection → [ [
+## 🧠 Who I Am
 
-📈 Quant Trading Bots | MA, sentiment, scalpers → [ [
+- 🎓 **Pre-Final Year CS Student @ UPES Dehradun**
+- 🤖 Focused on **AI/ML, LLMs, RAG & Agentic Systems**
+- 📈 Building **Quant Trading Bots & Backtesting Engines**
+- 🛠 Obsessed with **automation, systems, and leverage**
+- 🚀 Long-term vision: **Tech × Space × Machines**
 
-📚 ML Hub | Models + datasets → [
+---
 
-💻 Dev Portfolio | Projects + blogs → [ 
-​
+## ⚙️ Tech Arsenal
 
-Deployed: Vercel | Colab | HF Spaces | GitHub Pages | Streamlit
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+</p>
 
-🧠 Knowledge Base
-DL/ML | Transformers, CNNs, GANs, LLaMA3 Fine-tuning + RAG
+### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-Quant | Backtesting, Algo Trading, Stats/Simulations
+- Transformers, CNNs, GANs  
+- LLaMA-3 Fine-Tuning  
+- Retrieval-Augmented Generation (RAG)  
+- YOLOv8 / Detectron2 / Mask-R-CNN  
 
-Tools | Datasets (Kaggle/Roboflow), LangChain, APIs 
-​
+### Full-Stack & Infra
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel,git,github" />
+</p>
 
-🎮 Snake Game – Play Now!
-<div align="center"> <img src="https://github.com/MoHiT05os/MoHiT05os/raw/main/snake.svg?color=radical" alt="Snake Game" width="50%" /> <br> **Score: Loading...** | Controls: <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20up&body=↑">↑</a> <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20right&body=→">→</a> <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20down&body=↓">↓</a> <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20left&body=←">←</a> <br>*Powered by GitHub Actions – Updates SVG live!*[6] </div>
-📬 Reach Out
-[
-[
-[
+### Tools & Platforms
+- LangChain • Supabase • n8n  
+- Google Colab • Kaggle • Roboflow  
+- Streamlit • HuggingFace Spaces  
 
-🌱 Grow, build, conquer together. Jan 2026 Update.
-​
+---
+
+## 🔥 What I’m Building (Now)
+
+### 🧠 AI Mind Assistant
+**LangChain + LLaMA-3 + RAG + Supabase**  
+> A Jarvis-style AI brain with memory, tools, and reasoning.
+
+**Status:** Active Development  
+**Focus:** Agents • Tool Calling • Vector Memory
+
+---
+
+### 🛠 Detectron2 Instance Segmentation
+**Mask-R-CNN | 8-Class Plastic Waste Dataset**
+
+- Custom dataset pipeline
+- Instance segmentation
+- Research-grade evaluation
+
+**Status:** Ongoing
+
+---
+
+### 🧃 YOLOv8 / YOLOv11
+**Plastic Waste Detection System**
+
+- Multi-class object detection
+- Real-world waste datasets
+- Deployment-ready inference
+
+**Status:** Completed & Improving
+
+---
+
+### 📈 Quant Trading Bots
+**Indicators • Sentiment • Scalping Systems**
+
+- MA strategies
+- Statistical simulations
+- Backtesting pipelines
+
+**Status:** Building privately
+
+---
+
+## 🧩 Previous Projects
+
+- 📚 **Library Management System**
+- 🚦 **Integrated Traffic Control System**
+- 🧠 **Applied ML – Core Models Implementation**
+- 🗂 **ML Hub** (Models + Datasets + Experiments)
+
+---
+
+## 📊 Knowledge Stack
+
+**AI / ML**
+- Deep Learning
+- Transformers
+- LLM Fine-Tuning
+- RAG Systems
+
+**Quant & Math**
+- Probability
+- Entropy
+- Monte-Carlo Simulation
+- Backtesting & Risk
+
+**Engineering**
+- System Design
+- Automation Pipelines
+- API Integrations
+
+---
+
+## 🚀 Deployment Experience
+
+- Vercel  
+- GitHub Pages  
+- Streamlit  
+- HuggingFace Spaces  
+- Google Colab  
+
+---
+
+## 🧬 Live GitHub Snake
+
+<div align="center">
+<img src="https://github.com/therealmohityadav/therealmohityadav/raw/main/snake.svg" width="70%" />
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+<a href="https://github.com/therealmohityadav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+<h3 align="center">
+🌱 Grow. Build. Conquer. <br/>
+<sub>Last Updated: Jan 2026</sub>
+</h3>
