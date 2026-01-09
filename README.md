@@ -1,71 +1,52 @@
-# Hey, I'm Mohit Yadav (a.k.a. MoHiT05os)
+Mohit Yadav (a.k.a. MoHiT05os)
+🎓 CS Undergrad @ UPES | 🤖 AI & ML Enthusiast | 📈 Quant Trading Builder | 🛠 Full-Stack Explorer
+Iron Man suit of AI tools. One script at a time. Let's conquer tech stacks together!
+​
 
-🎓 CS Undergrad @ UPES | 🤖 AI & ML | 📈 Quant 
-🛠 Builder. Dreamer. Learner. Explorer of infinite stacks.  
+<div align="center">
+​
 
----
+[
+​
 
-### 💻 Tech Arsenal:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Colab](https://img.shields.io/badge/-Google_Colab-333333?style=flat&logo=googlecolab)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+[
+​
 
----
+[
 
-### 🔥 What I’m Building:
+</div>
+💻 Tech Arsenal
+<div align="center"> <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Colab" /> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> </div>[4]
+🔥 What I’m Building
+🧠 AI Mind Assistant | LangChain + LLaMA3 + RAG + Supabase → [ [
 
-- 🧠 **AI Mind Assistant**: LangChain + LLaMA3 + RAG + Supabase  
-- 🛠️ **Detectron2 Segmentation**: Mask R-CNN on custom 8-class dataset  
-- 🧃 **YOLOv8 & v11**: Real-world plastic waste detection  
-- 📈 **Quant Trading Bots**: MA crossover, sentiment-based, volatility scalpers  
-- 📚 **Machine Learning Hub**: Classic & modern ML models with real datasets  
-- 💻 **Dev Portfolio Archive**: Projects, blogs & YouTube integration — _“a King's digital library”_  
-- 🌐 Deployed using **Vercel** | Colab | HuggingFace Spaces | GitHub Pages | Streamlit
+🛠️ Detectron2 Segmentation | Mask R-CNN (8-class dataset) → [ [
 
----
+🧃 YOLOv8/v11 | Plastic waste detection → [ [
 
-### 🧠 Knowledge Base:
-- 🔍 Deep Learning | Transformers | CNNs | GANs  
-- 🧠 Fine-tuning + RAG with LLaMA3 | LangChain  
-- 📊 Statistics, Probabilities & Simulations  
-- 🧮 Quant Finance | Strategy Backtesting | Algo Trading  
-- 📦 Dataset Curation | Roboflow | Kaggle | APIs  
-- 💡 Startup Ideation | Building in Public | Creator Economy
+📈 Quant Trading Bots | MA, sentiment, scalpers → [ [
 
----
+📚 ML Hub | Models + datasets → [
 
-### 🏆 GitHub Highlights:
+💻 Dev Portfolio | Projects + blogs → [ 
+​
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoHiT05os&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Deployed: Vercel | Colab | HF Spaces | GitHub Pages | Streamlit
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MoHiT05os&theme=tokyonight)](https://git.io/streak-stats)
+🧠 Knowledge Base
+DL/ML | Transformers, CNNs, GANs, LLaMA3 Fine-tuning + RAG
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoHiT05os&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+Quant | Backtesting, Algo Trading, Stats/Simulations
 
----
+Tools | Datasets (Kaggle/Roboflow), LangChain, APIs 
+​
 
-### 🎯 Mission:
-> **“To build the Iron Man suit of AI tools. One script at a time.”**
+🎮 Snake Game – Play Now!
+<div align="center"> <img src="https://github.com/MoHiT05os/MoHiT05os/raw/main/snake.svg?color=radical" alt="Snake Game" width="50%" /> <br> **Score: Loading...** | Controls: <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20up&body=↑">↑</a> <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20right&body=→">→</a> <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20down&body=↓">↓</a> <a href="https://github.com/MoHiT05os/MoHiT05os/issues/new?assignees=&labels=&template=&title=[Snake]%20left&body=←">←</a> <br>*Powered by GitHub Actions – Updates SVG live!*[6] </div>
+📬 Reach Out
+[
+[
+[
 
----
-
-### 📬 Reach Out & Connect:
-📩 Email: [mohityadav.coral@gmail.com](mailto:mohityadav.coral@gmail.com)  
-🌍 LinkedIn: [Mohit on LinkedIn](https://www.linkedin.com/in/mohityadav05os/)  
-📹 YouTube (soon): `@MoHiT05os`
-
----
-
-  
-🌱 _Stick around – we grow, build, and conquer together._
-
-<!---
-MoHiT05os/MoHiT05os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+🌱 Grow, build, conquer together. Jan 2026 Update.
+​
