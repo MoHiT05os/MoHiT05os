@@ -121,7 +121,7 @@ Long-form CV/AI comparison + civilizational-stakes essays across **YouTube · Me
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoHiT05os&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=MoHiT05os&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
