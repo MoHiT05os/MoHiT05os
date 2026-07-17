@@ -22,7 +22,7 @@
 
 ```yaml
 role:          Final-Year B.Tech CSE (AI/ML) @ UPES Dehradun — Grad June 2027
-internship_1:  ISRO / IIRS — NISAR SAR Data Processing (Mentor: Dr. Anil Kumar)
+internship_1:  ISRO / IIRS — NISAR SAR Data Processing
 internship_2:  Xebia — Virtual AI/ML Internship
 flagship_build: MARK-1 — 5-Layer Autonomous Physical AI Inspection Drone
 content_brand: TRMY → MOHITCREATES · MOHITBUILDS · MOHITLABS
