@@ -140,7 +140,7 @@ Long-form CV/AI comparison + civilizational-stakes essays across **YouTube · Me
 
 <div align="center">
 
-### 🎯 SGPA 8.92 · O-grade Minor Project · Compound Achievement Framework
+### O-grade Minor Project · Compound Achievement Framework
 
 <sub>Technical • Creative • Physical • Social — stacked simultaneously.</sub>
 
